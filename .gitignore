@@ -1,0 +1,8 @@
+# Compilados
+/bin/
+*.class
+*.jar
+
+# Eclipse
+.project
+.classpath
